@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of several thousands of His Majesty's subjects, entituled under the letters patents of King Charles the second, to annual sums out of the hereditary revenue of excise: humbly offered to the consideration of the honourable House of Commons.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35642</idno>
+            <idno type="STC">Wing C988</idno>
+            <idno type="STC">ESTC R213520</idno>
+            <idno type="EEBO-CITATION">99825883</idno>
+            <idno type="PROQUEST">99825883</idno>
+            <idno type="VID">30274</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35642)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30274)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 1774:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of several thousands of His Majesty's subjects, entituled under the letters patents of King Charles the second, to annual sums out of the hereditary revenue of excise: humbly offered to the consideration of the honourable House of Commons.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699/1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect UMI microfilm reel 1774, last part of first two lines of docket title obliterated.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Sovereign (1660-1685 : Charles II) --  Early works to 1800.</term>
+               <term>Excise tax --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:30274:1" rendition="simple:additions"/>
+            <head>The CASE of ſeveral Thouſands of His MAJESTY's Subjects, Entituled under the Letters Patents of King <hi>Charles</hi> the Second, to Annual Sums out of the Hereditary Revenue of EXCISE: <hi>Humbly Offered to the Conſideration of the Honourable Houſe of Commons.</hi>
+            </head>
+            <p>THE Parliament having Paſſed, in 19 <hi>Caroli 2di,</hi> an Act for Aſſigning Orders in the Exchequer with<g ref="char:EOLhyphen"/>out Revocation, and therein expreſſed it to be made for the Advantage of the Trade of this King<g ref="char:EOLhyphen"/>dom; and for Seven Years to give Credit to His Majeſty's Exchequer; Alſo for Payment of Moneys that ſhould be Charged on any Branch of His Majeſty's Revenue: Several Goldſmiths and Others were thereby encouraged to Advance great Sums to ſerve Publick Occaſions.</p>
+            <p>But notwithſtanding the ſaid Act, His ſaid Majeſty in Council, on the 2d of <hi>January</hi> 1671/2, declared, That His Neceſſities forced Him to Poſtpone Payments in the Exchequer for One Year; And that the Lords of the Trea<g ref="char:EOLhyphen"/>ſury ſhould Employ and Diſpoſe of all the ſaid Moneys ſo ſtopped, for Setting forth and Payment of the Fleet, and other Publick Services, in order to the Preſervation and Safety of His Majeſty's Government, and Defence of His People: By which Stop in the Exchequer, the ſaid Goldſmiths were not able to pay their Debts to Thouſands of Perſons, who had then Moneys in their hands.</p>
+            <p>Therefore to Remove the great Difficulties which many Subjects lay under by the ſaid Stop of Payments; And for want of a more Effectual Relief, His ſaid Majeſty cauſed the Accompts of thoſe to whom he was ſo in<g ref="char:EOLhyphen"/>debted, to be ſtated by the Proper Officers; And for the Moneys which appeared due by thoſe Accompts to each Reſpective perſon, His ſaid Majeſty by his Letters Patents, about <hi>April</hi> 1677, Gave and Granted to Each of his ſaid Creditors, their Heirs and Aſſigns, in lieu and ſatisfaction of their Reſpective Debts, Annual Sums or Payments out of the Hereditary Revenue of Exciſe, anſwerable in Value to the Intereſt of their Reſpective Debts, at the Rate of Six Pounds <hi>per Cent. per Annum,</hi> to be paid Quarterly, and to be preferred before any other Payment out of the ſame, by Vertue or Colour of any Warrant, Order, or Directions whatſoever, of any After-Date, excepting only Neceſſary Sums for the Management of the ſaid Revenue, and about 36209 <hi>l.</hi> 15 <hi>s.</hi> 4 <hi>d.</hi> ½ a Year, to the then Queen-Conſort, and Duke of <hi>York,</hi> with a Power of Redemption, upon Payment of the Principal Sum, and Arrears to that time; And purſuant thereto, the ſaid Patentees and their Aſſigns were paid in the Reigns of King <hi>Charles</hi> the Second and King <hi>James</hi> the Second, to <hi>Lady-Day</hi> 1683, but not any part ſince that time, notwithſtanding all due Applications to that purpoſe.</p>
+            <p>Which Occaſioned thoſe Proprietors to have many Thoughts which way to be Relieved; And upon Applica<g ref="char:EOLhyphen"/>tion to the Members of the Honourable Houſe of Commons, to know if it was not proper to offer their ſaid Caſe to their Committee of Aggrievances, they were adviſed, Firſt, to proſecute the Legal Remedy, which through great Difficulties hath been done, and by Ten Years Labour and great Charge the Title under the ſaid Patents hath been ſolemnly ſetled and determined to be well Granted; And that the Patentees and their Aſſigns ought to be duly paid their ſeveral Yearly Sums, and the Arrears thereof; And accordingly a Judgment is given for Mr. <hi>Williamſon</hi> (an Aſſignee of Sir <hi>Robert Vyner</hi>) for the Arrears of the Yearly Sum of Sixty Pounds, payable to him; And for the future Payment of the ſame, out of the Hereditary Revenue of Sixty Pounds, ſaid Revenue hath been alſo adjudged and determined to be legally Charged therewith, and with the Reſt of the Yearly Sums, payable to the Reſpective Patentees and their Aſſigns.</p>
+            <p>And now after the great and many Difficulties and unexpreſſible Miſeries that ſeveral of theſe Proprietors have undergone for want of Payment, and the great Charges they have been at to Recover their Legal Eſtates, a Vote hath Paſſed on the 12th of <hi>March</hi> preſent, in the Honourable Houſe of Commons, to Appropriate, amongſt other Revenues, the Hereditary Revenue of Exciſe towards the Supply Granted for the Year Seventeen Hundred.</p>
+            <p>So that by the ſaid Vote, the Eſtates of the ſaid Patentees and their Aſſigns would be Invaded, ſhould it Paſs into an Act of Parliament; for ſuch an Application, although but for One Year, it would be manifeſt Damage to the Proprietors concerned therein, and may tend to a defeating of the ſaid <hi>Williamſon</hi> from the Benefit of the Execution of the Judgment in his Favour, obtained in the moſt Solemn manner: Which it is humbly hoped and prayed, the Honourable Houſe of Commons, will not be pleaſed to do, for the Conſiderations fol<g ref="char:EOLhyphen"/>lowing:
+<list>
+                  <item>I. That the Overplus mentioned in the Act for Proviſion for His Majeſty's Houſhold, <hi>&amp;c.</hi> to be at the Parliament's Diſpoſal, is only of His Majeſty's Eſtate therein; but not of what was before Legally Charged on the Hereditary Exciſe, and become His Subjects Property.</item>
+                  <item>II. That it is very unuſual, that what is particular Perſons Eſtates, ſhould by a Law be taken from them to anſwer Publick Services.</item>
+                  <item>III. That Diſpenſing with Property, hath not hitherto been allow'd; And may be of Example to Power at another time, to be the ſole Judge of a Neceſſity when to do it, which in time may hazard our preſent Conſtitution.</item>
+                  <item>IV. That the Sufferings of the ſaid Patentees, and their Aſſigns, for Seventeen Years laſt paſt, without any juſt Colour, deſerves Compaſſion and Relief: But a Continuance of ſuch Hardſhips muſt Affect both the Juſtice and Credit of the Nation.</item>
+                  <item>V. That the Houſe of Commons are the Great Preſervers of the Legal Property of the People of <hi>England.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Therefore it is humbly Hoped and Prayed, That the Honourable Houſe of Commons will not proceed upon any ſuch Vote to Enact the ſame; but that in Juſtice to the Concerned, they will leave the Hereditary Revenue of Exciſe free and open to pay and diſcharge the ſaid Annual Sums, and Arrears legally Charged thereon.</hi>
+            </p>
+            <pb facs="tcp:30274:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
